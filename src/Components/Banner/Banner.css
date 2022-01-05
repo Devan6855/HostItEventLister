@@ -1,0 +1,79 @@
+.bannerParentDiv {
+    padding-top: 4em;
+  }
+  .bannerParentDiv .bannerChildDiv {
+  }
+  .bannerParentDiv .bannerChildDiv .menuBar {
+    display: flex;
+    padding: 10px 16px 10px 16px;
+  }
+  
+  .bannerParentDiv .bannerChildDiv .menuBar span {
+  }
+  
+  .bannerParentDiv .bannerChildDiv .menuBar .categoryMenu span {
+    margin-right: 16px;
+    font-weight: bolder;
+    color: white;
+  }
+  
+  .bannerParentDiv .bannerChildDiv .menuBar .otherQuickOptions {
+  }
+  .bannerParentDiv .bannerChildDiv .menuBar .otherQuickOptions span {
+    padding: 10px;
+    color:white;
+  }
+  
+  .bannerChildDiv .banner {
+    position: relative;
+    width: 100vw;
+  }
+  .bannerChildDiv .banner img{
+    width: 100vw;
+  }
+
+  /* .menuBar{
+      background-image: url("../../assets/W.png");
+  } */
+  .menuBar{
+  }
+  .otherQuickOptions{
+  }
+
+  .categoryFilter{
+    margin-left: 380px;
+    /* margin-bottom: 50px; */
+    font-size: 15px;
+    color: white;
+  }
+  .categoryFilter2{
+    margin-left: 2000px;
+    /* margin-bottom: 50px; */
+    font-size: 15px;
+    color: white;
+  }
+  .secondCategory{
+    margin-left: 25px;
+  }
+  .secondCategory:hover{
+    cursor: pointer;
+  }
+
+  .bannerParentDiv{
+  }
+
+  .nikeSpan:hover{
+    cursor: pointer;
+  }
+  .adidasSpan:hover{
+    cursor: pointer;
+  }
+
+  @media only screen and (max-width: 700px) {
+    .otherQuickOptions {
+      display: none;
+    }
+    .bannerChildDiv .banner {
+      position: relative;
+    }
+  }

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b12a454.chunk.css",
+    "main.js": "/static/js/main.3cc83826.chunk.js",
+    "main.js.map": "/static/js/main.3cc83826.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b7c7442a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b7c7442a.js.map",
+    "static/js/2.5d0f2139.chunk.js": "/static/js/2.5d0f2139.chunk.js",
+    "static/js/2.5d0f2139.chunk.js.map": "/static/js/2.5d0f2139.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9b12a454.chunk.css.map": "/static/css/main.9b12a454.chunk.css.map",
+    "static/js/2.5d0f2139.chunk.js.LICENSE.txt": "/static/js/2.5d0f2139.chunk.js.LICENSE.txt",
+    "static/media/Post.css": "/static/media/jean-philippe-delberghe-75xPHEQBmvA-unsplash.28dd1c35.jpg",
+    "static/media/searchIcon.8a9107ab.png": "/static/media/searchIcon.8a9107ab.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c7442a.js",
+    "static/js/2.5d0f2139.chunk.js",
+    "static/css/main.9b12a454.chunk.css",
+    "static/js/main.3cc83826.chunk.js"
+  ]
+}
